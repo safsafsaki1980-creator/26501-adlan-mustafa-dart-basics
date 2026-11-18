@@ -28,10 +28,5 @@ void main() {
 
   print('$fullName has ${countVowels(fullName)} vowels');
 }
-```
 
-**Expected Output:**
-```text
-Reg no: 26501 | D = 1 | T = 1
-Mustafa Eliass Abdulhalim Adlan has 12 vowels
-```
+
